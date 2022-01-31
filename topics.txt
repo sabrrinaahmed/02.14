@@ -1,8 +1,8 @@
-happy
-sad
-miss me
-angry with me
-far from me
-on your birthday
-on valentines day
-irritated
+happy: 6861707079
+sad: 736164
+miss me: 6D697373
+angry: 616E677279
+far from me: 666172
+on your birthday: 6269727468646179
+on valentines day: 76616C656E74696E6573
+irritated: 697272697461746564
