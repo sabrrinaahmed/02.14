@@ -1,8 +1,7 @@
 
 class Message {
-private:
-    int code;
 public:
+    int code = 0;
     void m280466(); // happy
     void m620274(); // sad
     void m251548(); // miss me
